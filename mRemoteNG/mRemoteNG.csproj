@@ -118,6 +118,9 @@
     <PackageReference Include="VncSharpCore" Version="1.2.1" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ExternalConnectors\ExternalConnectors.csproj" />
+  </ItemGroup>
+  <ItemGroup>
     <Compile Update="Language\Language.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
