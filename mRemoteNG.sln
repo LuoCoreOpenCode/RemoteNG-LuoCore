@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 14.0.25420.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mRemoteNG", "mRemoteNG\mRemoteNG.csproj", "{4934A491-40BC-4E5B-9166-EA1169A220F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Installer|x64 = Debug Installer|x64
+		Debug Portable|x64 = Debug Portable|x64
+		Debug|x64 = Debug|x64
+		Release Installer and Portable|x64 = Release Installer and Portable|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4934A491-40BC-4E5B-9166-EA1169A220F6}.Debug Installer|x64.ActiveCfg = Debug|x64
+		{4934A491-40BC-4E5B-9166-EA1169A220F6}.Debug Installer|x64.Build.0 = Debug|x64
+		{4934A491-40BC-4E5B-9166-EA1169A220F6}.Debug Portable|x64.ActiveCfg = Debug Portable|x64
+		{4934A491-40BC-4E5B-9166-EA1169A220F6}.Debug Portable|x64.Build.0 = Debug Portable|x64
+		{4934A491-40BC-4E5B-9166-EA1169A220F6}.Debug|x64.ActiveCfg = Debug|x64
+		{4934A491-40BC-4E5B-9166-EA1169A220F6}.Debug|x64.Build.0 = Debug|x64
+		{4934A491-40BC-4E5B-9166-EA1169A220F6}.Release Installer and Portable|x64.ActiveCfg = Release|x64
+		{4934A491-40BC-4E5B-9166-EA1169A220F6}.Release Installer and Portable|x64.Build.0 = Release|x64
+		{4934A491-40BC-4E5B-9166-EA1169A220F6}.Release|x64.ActiveCfg = Release|x64
+		{4934A491-40BC-4E5B-9166-EA1169A220F6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D390A0C-2FC4-4908-B86E-7E4DEF5916EC}
+	EndGlobalSection
+EndGlobal

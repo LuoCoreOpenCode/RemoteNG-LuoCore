@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\CodeRepository\Git\LuoCore-mRemoteNG-1.77.3-远程桌面\LuoCore-mRemoteNG-1.77.3-远程桌面\mRemoteNG\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Connection\InterfaceControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\MremoteNGThemeBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Tools\ReconnectGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\ConnectionContextMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\ConnectionInfoPropertyGrid\ConnectionInfoPropertyGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\ConnectionTree\ConnectionTree.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\ConnectionTree\NameColumn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\CredentialRecordComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\CredentialRecordListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\CredentialRecordListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\CredentialRepositoryListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\ExternalToolsToolStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\FilteredPropertyGrid\FilteredPropertyGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\HeadlessTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngAdTree.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngIpTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngNumericUpDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngSearchBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\mrngToolStripSplitButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\MultiSshToolStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\NewPasswordWithVerification.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\PageSequence\SequencedControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\QuickConnectComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\QuickConnectToolStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\SecureTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\frmChoosePanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\FrmExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\FrmInputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\frmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\FrmPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\FrmUnhandledException.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\OptionsPages\BackupPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Menu\msExternalTools\externalToolsMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Menu\msMain\FileMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Menu\msMain\HelpMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Menu\msMain\ToolsMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Menu\msMain\ViewMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Menu\msMultiSSH\multiSsh.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Menu\msQuickConnect\quickConnect.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Tabs\ConnectionTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Tabs\DockPaneStripNG.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Tabs\FloatWindowNG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Tabs\MremoteNGAutoHideStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\TaskDialog\CommandButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\TaskDialog\frmTaskDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\ActiveDirectoryImportWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\BaseWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\ConfigWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\ConnectionTreeWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\ConnectionWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\ErrorAndInfoWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\ExternalToolsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\PortScanWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\SSHTransferWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\UltraVNCWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WindowForms\UpdateWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Language\Language.zh-CN.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
